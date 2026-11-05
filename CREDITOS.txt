@@ -1,0 +1,36 @@
+Diccionarios de Broots / Broots dictionaries
+============================================
+
+Versión / Version: 2026.11
+
+Fuente / Source
+  Wiktionary, el diccionario libre, escrito por sus colaboradores.
+  Wiktionary, the free dictionary, written by its contributors.
+    Español:   https://es.wiktionary.org/  (volcado / dump 2026-11-01)
+    Português: https://pt.wiktionary.org/  (volcado / dump 2026-10-01)
+    English:   https://en.wiktionary.org/  (volcado / dump 2026-10-01)
+  La lista de autores de cada entrada está en el historial de su página.
+  The authors of each entry are listed in the history of its page.
+
+Extracción / Extraction
+  Datos estructurados de kaikki.org (https://kaikki.org/), obtenidos con wiktextract
+  (https://github.com/tatuylonen/wiktextract), de Tatu Ylonen.
+  Tatu Ylonen: Wiktextract: Wiktionary as Machine-Readable Structured Data, LREC 2022, pp. 1317-1325.
+
+Cambios / Changes
+  Estos archivos son una versión RESUMIDA y convertida a SQLite, no una copia fiel de Wiktionary:
+  - Sin nombres propios, ejemplos, etimología, pronunciación ni traducciones.
+  - Hasta 12 sentidos por categoría, con definiciones acortadas a 500 caracteres.
+  - Las formas conjugadas apuntan a su palabra base. En español y portugués también se usan las del
+    Wiktionary en inglés.
+  - Marcas de registro y región traducidas y filtradas; notas al pie eliminadas.
+  These files are an ABRIDGED version converted to SQLite, not a faithful copy of Wiktionary (no proper
+  names, examples, etymology, pronunciation or translations; up to 12 senses per category; definitions
+  cut at 500 characters; inflected forms point to their base word, also using English Wiktionary's for
+  Spanish and Portuguese; register and region labels translated and filtered; footnotes removed).
+
+Licencia / License
+  Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).
+  https://creativecommons.org/licenses/by-sa/4.0/
+  Sin garantías de ningún tipo. Ni Wiktionary ni sus autores respaldan este trabajo ni a Broots.
+  Provided as is, with no warranties. Neither Wiktionary nor its authors endorse this work or Broots.
